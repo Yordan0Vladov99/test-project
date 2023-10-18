@@ -1,1 +1,2 @@
-print("Dont delete me")
+print("Nikolai Ivanov")
+print("My student number is: 19522")
